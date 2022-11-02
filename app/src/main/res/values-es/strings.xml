@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hogar Gestor</string>
+    <string name="txtnombre">Nombre</string>
+    <string name="txtclave">Contraseña</string>
+    <string name="txtwelcome" >Bienvenido</string>
+    <string name="user" >Johan</string>
+    <string name="txtintroduction" >Introducción</string>
+    <string name="txtloren" >En español--Bla bla bla blaBla bla bla blaBla bla bla blaBla bla bla blabla bla blaBla bla bla blaBla bla bla blaBla bla bla bla bla bla blaBla bla bla blaBla bla bla blaBla bla bla bla</string>
+    <string name="txtclass1" >Clase 1</string>
+    <string name="messageerrorUsername">Nombre de Usuario Inválido</string>
+    <string name="welcome">BIENVENIDO</string>
+    <string name="messageerrorPassword">Contraseña Inválida</string>
+    <string name="txt_action_search">Busqueda</string>
+    <string name="txt_action_settings">Configuración</string>
+    <string name="txt_action_logout">Cerrar sesión</string>
+    <string name="txt_fab">Agregar</string>
+    <string name="btn_login">INGRESAR</string>
+    <string name="input_email">email@mail.com</string>
+    <string name="input_password">Tu Contraseña</string>
+    <string name="btn_register">REGISTRAR</string>
+    <string name="name">Nombre</string>
+    <string name="Lastname">Apellido</string>
+    <string name="phone">Teléfono</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="Save">Guardar</string>
+    <string name="txtbienvenida">De una modalidad en la que se desarrolla un proceso de apoyo y fortalecimiento a la familia, a través de sesiones de atención psicosocial con el niño, niña o adolescente cuyos derechos han sido vulnerados y su familia. De considerarse necesario a partir de la valoración del caso que realice la Autoridad Administrativa Competente y su equipo interdisciplinario, se hace entrega de apoyo económico mensual.</string>
+    <string name="substitulo">¿De Que Trata?</string>
+    <string name="TaskTitle">Título</string>
+    <string name="TaskTime">Fecha hora</string>
+    <string name="TaskPlace">Lugar</string>
+    <string name="NewTask">Crear nueva tarea</string>
+</resources>

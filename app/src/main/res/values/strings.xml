@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Hogar Gestor</string>
+    <string name="txtnombre">Username</string>
+    <string name="txtclave">Password</string>
+    <string name="txtwelcome">Welcome</string>
+    <string name="user">Johan</string>
+    <string name="txtintroduction">Introduction</string>
+    <string name="txtloren">English---Bla bla bla blaBla bla bla blaBla bla bla blaBla bla bla blabla bla blaBla bla bla blaBla bla bla blaBla bla bla bla bla bla blaBla bla bla blaBla bla bla blaBla bla bla bla</string>
+    <string name="txtclass1">Class 1</string>
+    <string name="messageerrorUsername">Invalid User Name</string>
+    <string name="welcome">WELCOME</string>
+    <string name="messageerrorPassword">Invalid Password</string>
+    <string name="txt_action_search">Search</string>
+    <string name="txt_action_settings">Settings</string>
+    <string name="txt_action_logout">Logout</string>
+    <string name="txt_fab">Add</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="input_email">email@mail.com</string>
+    <string name="input_password">your password</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="name">Name</string>
+    <string name="Lastname">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="txt_password">Password</string>
+    <string name="Save">Save</string>
+    <string name="txtbienvenida">De una modalidad en la que se desarrolla un proceso de apoyo y fortalecimiento a la familia, a través de sesiones de atención psicosocial con el niño, niña o adolescente cuyos derechos han sido vulnerados y su familia. De considerarse necesario a partir de la valoración del caso que realice la Autoridad Administrativa Competente y su equipo interdisciplinario, se hace entrega de apoyo económico mensual.</string>
+    <string name="substitulo">¿De Que Trata?</string>
+    <string name="TaskTitle">Title</string>
+    <string name="TaskTime">Time</string>
+    <string name="TaskPlace">Place</string>
+    <string name="NewTask">New Task</string>
+</resources>
