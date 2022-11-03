@@ -188,9 +188,10 @@ class ToDoFragment: Fragment() {
                 while(i<result.size){
                     myTaskTitles.add(result[i].title.toString())
                     myTaskTimes.add(result[i].time.toString())
-                    myTaskPlaces.add(result[i].place.toString())
-                    myTaskIds.add(result[i].id.toString()
-                    i++
+                    myTaskPlaces.add(result[i].place)
+                    val add = myTaskIds.add(
+                        result[i].id.toString()
+                                i ++
                 }
                 myAdapter.notifyDataSetChanged()
             }
